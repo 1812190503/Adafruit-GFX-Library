@@ -378,7 +378,7 @@ void Adafruit_GFX::drawPentagram(int16_t x0, int16_t y0,
     int xc, yc;
     int xd, yd;
     int xe, ye;
-    //by wanglong 306
+    //by wanglong 307
     xa = x0;
     ya = y0 - r0;
     xb = x0 - r0 * sin(PI / 180 * 72);
